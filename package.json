@@ -1,7 +1,7 @@
 {
   "name": "@dublyo/mailat",
-  "version": "1.0.0",
-  "description": "Tiny, dependency-free client for sending email through a self-hosted Mailat instance",
+  "version": "1.0.1",
+  "description": "Tiny, dependency-free client for sending email through Mailat (mailat.co), the open-source Amazon SES email platform",
   "license": "MIT",
   "type": "module",
   "main": "./dist/index.cjs",
@@ -38,16 +38,20 @@
   "keywords": [
     "email",
     "mailat",
+    "mailat.co",
+    "email-api",
     "transactional-email",
-    "smtp",
+    "amazon-ses",
     "ses",
-    "webhooks"
+    "webhooks",
+    "nextjs",
+    "nuxt"
   ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dublyo/mailat-npm.git"
   },
-  "homepage": "https://github.com/dublyo/mailat-npm#readme",
+  "homepage": "https://mailat.co",
   "bugs": {
     "url": "https://github.com/dublyo/mailat-npm/issues"
   },

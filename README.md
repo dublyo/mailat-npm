@@ -1,6 +1,8 @@
 # @dublyo/mailat
 
-Send email from your app through your own [Mailat](https://github.com/dublyo/mailat) instance. You need three settings: the instance URL, an API key and a default From address.
+Send email from your app through your own [Mailat](https://mailat.co) instance. You need three settings: the instance URL, an API key and a default From address.
+
+> **About Mailat.** [Mailat](https://mailat.co) is a free, open-source (MIT) email platform built on Amazon SES: sending, receiving, mailboxes, campaigns and automations on your own domains. Learn more, read the docs or get managed hosting at **[mailat.co](https://mailat.co)**. The source code is on [GitHub](https://github.com/dublyo/mailat). Amazon SES usage is billed by AWS.
 
 - Zero runtime dependencies. ESM, CommonJS and TypeScript types are all included.
 - Runs anywhere `fetch` exists: Node.js 18+, Next.js (Node and Edge), Nuxt/Nitro, Express, Cloudflare Workers, Bun and Deno.

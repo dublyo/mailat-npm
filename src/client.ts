@@ -22,7 +22,7 @@ import type {
 } from './types.js'
 import { webhooks } from './webhooks.js'
 
-export const VERSION = '1.0.0'
+export const VERSION = '1.0.1'
 
 const DEFAULT_TIMEOUT_MS = 30_000
 const DEFAULT_MAX_RETRIES = 2

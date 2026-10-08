@@ -1,6 +1,8 @@
 # mailat (Go)
 
-A small Go client for sending email through a self-hosted [Mailat](https://github.com/dublyo/mailat) instance. It uses only the standard library and needs Go 1.22 or newer.
+A small Go client for sending email through a self-hosted [Mailat](https://mailat.co) instance. It uses only the standard library and needs Go 1.22 or newer.
+
+Mailat is a free, open-source (MIT) email platform built on Amazon SES. Product, docs and managed hosting: [mailat.co](https://mailat.co). Source: [github.com/dublyo/mailat](https://github.com/dublyo/mailat).
 
 ```sh
 go get github.com/dublyo/mailat-npm/go

@@ -3,6 +3,10 @@
 All notable changes to this project are documented here. The npm package and
 the Go module share version numbers (`v1.0.0` for npm, `go/v1.0.0` for Go).
 
+## 1.0.1 - 2026-10-08
+
+- Package page links to [mailat.co](https://mailat.co): homepage, description and an "About Mailat" note in the README. No code changes.
+
 ## 1.0.0 - 2026-10-08
 
 First release.
